@@ -114,3 +114,8 @@ This project was completed as **Task 1** during my **Data Science Internship at 
 📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗 [GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
+
+---
+
+⭐ *If you liked this project, don’t forget to star the repo and connect with me on LinkedIn!*
+
