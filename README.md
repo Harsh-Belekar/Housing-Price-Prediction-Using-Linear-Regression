@@ -6,8 +6,7 @@ The objective of this project is to build and evaluate **linear regression model
 
 The project demonstrates an **end-to-end data science workflow**, including data cleaning, feature engineering, preprocessing, model training, and evaluation.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-orange)
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-orange) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?logo=scikit-learn) 
 ---
 
 ## 🎯 Project Objectives
