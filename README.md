@@ -41,6 +41,22 @@ The dataset contains both **numerical and categorical** housing attributes such 
 
 ---
 
+## 📂 Project Folder Structure
+
+```
+├── Notebook/
+│   └── House Price Prediction.ipynb    # Analysis Notebook
+│
+├── Data/
+│   └── HousePricePrediction.csv        # CSV File
+│
+├── README.md                           # Project documentation
+└── requirements.txt                    # Project Requirements
+
+```
+
+---
+
 ## 🔍 Project Workflow
 
 ### Phase 1: Setup and Data Loading
